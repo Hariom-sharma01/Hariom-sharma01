@@ -1,4 +1,4 @@
-![Banner](DALL·E 2024-11-20 23.47.43 - A visually appealing banner for a GitHub profile. The design should be professional yet vibrant, featuring a blend of blue and green gradients with su.webp)
+![Banner](./banner.webp)
 
 # Hi there 👋, I'm Hariom Sharma!
 
