@@ -47,7 +47,7 @@ A lightweight web-based calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 📫 Let's Connect!
 - 📧 Email: hariomsharmaji70@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/hariomsharma](https://www.linkedin.com/in/hariom-sharma-7a3681250/))
+- 💼 [LinkedIn]([https://linkedin.com/in/hariomsharma](https://www.linkedin.com/in/hariom-sharma-7a3681250/)
 
 
 ---
