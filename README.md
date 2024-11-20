@@ -1,4 +1,4 @@
-![Banner](./banner.webp)
+![Banner](./banner.png)
 
 # Hi there 👋, I'm Hariom Sharma!
 
