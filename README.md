@@ -40,7 +40,7 @@ An interactive platform connecting alumni and students with features like:
 - Networking and forums.
 - Event management and donation portal.
 
-### ➗ [Simple Calculator](#)
+### ➗ [Simple Calculator](https://hariom-sharma01.github.io/Simple_Calculator/)
 A lightweight web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
