@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 # Hi there 👋, I'm Hariom Sharma!
 
