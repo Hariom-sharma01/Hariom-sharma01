@@ -9,10 +9,12 @@ Welcome to my GitHub! I'm passionate about building innovative solutions, solvin
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **Alumni Association Platform** for better alumni-student interaction.
-- 🌱 Learning and implementing **Scrum practices** and **Agile estimation techniques**.
-- 🎓 currently pursuing my **B.Tech in Computer Science Engineering** from **GLA University**, Mathura .
-- ✍️ Exploring cutting-edge technologies like **React.js**, **Node.js**, and **MongoDB**.
+- 🔭 Currently working on Alumni Association Platform for better alumni-student interaction.
+-🚀 Working for Xcel IT Solutions – a startup providing top-notch IT solutions to businesses.
+-🌱 Learning and implementing Scrum practices and Agile estimation techniques.
+-🎓 Currently pursuing my B.Tech in Computer Science Engineering from GLA University, Mathura.
+-✍️ Exploring cutting-edge technologies like React.js, Node.js, and MongoDB.
+-🌐 Developed the website for Xcel IT Solutions.
 
 ---
 
@@ -42,6 +44,13 @@ An interactive platform connecting alumni and students with features like:
 
 ### ➗ [Simple Calculator](https://hariom-sharma01.github.io/Simple_Calculator/)
 A lightweight web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
+
+### 🚀 [Xcel IT Solutions](https://xcelitsol.com)
+Developed a Website for A startup IT solutions company
+helping businesses with
+-Web Development (React.js, Node.js, MongoDB)
+-Custom Software Solutions
+-IT Consultation & Digital Transformation
 
 ---
 
