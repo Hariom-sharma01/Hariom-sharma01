@@ -45,7 +45,7 @@ An interactive platform connecting alumni and students with features like:
 ### ➗ [Simple Calculator](https://hariom-sharma01.github.io/Simple_Calculator/)
 A lightweight web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 
-### 🌐 [ Portfolio Website ](hariom-sharma-portfolio.vercel.app)
+### 🌐 [ Portfolio Website ](https://hariom-sharma-portfolio.vercel.app/)
  Built and maintained a personal portfolio website to showcase projects, technical skills, and achievements in an
  interactive and visually appealing manner
 
