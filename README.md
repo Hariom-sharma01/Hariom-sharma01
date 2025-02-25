@@ -1,14 +1,14 @@
-![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<h1 align="center">Hi there 👋, I'm Hariom Sharma!</h1>
 
-# Hi there 👋, I'm Hariom Sharma!
+<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🌟 **Result-Oriented Software Developer** | **Software Developer** | **Problem Solver**
 
 Welcome to my GitHub! I'm passionate about building innovative solutions, solving challenging problems, and contributing to impactful projects.
 
----
 
-## 👨‍💻 About Me
+
+👨‍💻 About Me
 - 🔭 Currently working on Alumni Association Platform for better alumni-student interaction.
 -🚀 Working for Xcel IT Solutions – a startup providing top-notch IT solutions to businesses.
 -🌱 Learning and implementing Scrum practices and Agile estimation techniques.
