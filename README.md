@@ -56,6 +56,12 @@ helping businesses with
 -Custom Software Solutions
 -IT Consultation & Digital Transformation
 
+### 📘 [MyBook](https://mybookbyhs.vercel.app)
+A digital book library and note-keeping web app built with:
+- **React.js** for the frontend UI
+- **Tailwind CSS** for styling
+- **Node.js** and **MongoDB** for backend and storage
+- Allows users to add, manage, and delete personalized books and notes
 ---
 
 ## 📫 Let's Connect!
